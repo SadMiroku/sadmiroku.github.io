@@ -1,0 +1,11 @@
+.newtext{
+  font-family: Roboto, 'Roboto-Light';
+  margin-left: 510px;
+  color: #F2F3F4;
+  font-size: 40pt;
+  text-shadow: 4px 4px 10px black;
+  filter: Shadow(Color=#000000, Direction=45, Strength=5);
+}
+
+
+}
